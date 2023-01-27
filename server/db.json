@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "date": "2021-05-01T00:00:00Z",
+            "app_id": "123456",
+            "app_name": "Panda Draw",
+            "requests": 1022114,
+            "responses": 1022049,
+            "impressions": 1021886,
+            "clicks": 1020913,
+            "revenue": 44.936780459359746
+        },
+        {
+            "date": "2021-05-01T00:00:00Z",
+            "app_id": "789652",
+            "app_name": "Number Ninja",
+            "requests": 1064366,
+            "responses": 1064358,
+            "impressions": 1064282,
+            "clicks": 1063508,
+            "revenue": 281.15120314520004
+        },
+        {
+            "date": "2021-05-01T00:00:00Z",
+            "app_id": "741553",
+            "app_name": "Word Crush",
+            "requests": 1045822,
+            "responses": 1045817,
+            "impressions": 1045480,
+            "clicks": 1044796,
+            "revenue": 187.85090114434675
+        },
+        {
+            "date": "2021-05-01T00:00:00Z",
+            "app_id": "986321",
+            "app_name": "Brain Quiz",
+            "requests": 1097083,
+            "responses": 1097020,
+            "impressions": 1096803,
+            "clicks": 1096632,
+            "revenue": 126.01436815651878
+        },
+        {
+            "date": "2021-05-01T00:00:00Z",
+            "app_id": "320248",
+            "app_name": "Age Calculator",
+            "requests": 1002354,
+            "responses": 1002310,
+            "impressions": 1002141,
+            "clicks": 1001369,
+            "revenue": 303.03474326521416
+        },
+        {
+            "date": "2021-05-02T00:00:00Z",
+            "app_id": "123456",
+            "app_name": "Panda Draw",
+            "requests": 1038648,
+            "responses": 1038576,
+            "impressions": 1038280,
+            "clicks": 1037673,
+            "revenue": 49.05817109539021
+        },
+        {
+            "date": "2021-05-02T00:00:00Z",
+            "app_id": "789652",
+            "app_name": "Number Ninja",
+            "requests": 1053527,
+            "responses": 1053457,
+            "impressions": 1053105,
+            "clicks": 1053104,
+            "revenue": 20.82572518577178
+        },
+        {
+            "date": "2021-05-02T00:00:00Z",
+            "app_id": "741553",
+            "app_name": "Word Crush",
+            "requests": 1047482,
+            "responses": 1047481,
+            "impressions": 1047354,
+            "clicks": 1046721,
+            "revenue": 1.8059144351114325
+        },
+        {
+            "date": "2021-05-02T00:00:00Z",
+            "app_id": "986321",
+            "app_name": "Brain Quiz",
+            "requests": 1081861,
+            "responses": 1081767,
+            "impressions": 1081413,
+            "clicks": 1080433,
+            "revenue": 58.27341312039817
+        },
+        {
+            "date": "2021-05-02T00:00:00Z",
+            "app_id": "320248",
+            "app_name": "Age Calculator",
+            "requests": 1088686,
+            "responses": 1088645,
+            "impressions": 1088161,
+            "clicks": 1088142,
+            "revenue": 174.4929700992121
+        },
+        {
+            "date": "2021-05-03T00:00:00Z",
+            "app_id": "123456",
+            "app_name": "Panda Draw",
+            "requests": 1010629,
+            "responses": 1010596,
+            "impressions": 1010248,
+            "clicks": 1009653,
+            "revenue": 303.6216121244864
+        },
+        {
+            "date": "2021-05-03T00:00:00Z",
+            "app_id": "789652",
+            "app_name": "Number Ninja",
+            "requests": 1021202,
+            "responses": 1021149,
+            "impressions": 1021055,
+            "clicks": 1020136,
+            "revenue": 31.489836631381447
+        },
+        {
+            "date": "2021-05-03T00:00:00Z",
+            "app_id": "741553",
+            "app_name": "Word Crush",
+            "requests": 1051004,
+            "responses": 1050979,
+            "impressions": 1050531,
+            "clicks": 1050070,
+            "revenue": 18.460964907478452
+        },
+        {
+            "date": "2021-05-03T00:00:00Z",
+            "app_id": "986321",
+            "app_name": "Brain Quiz",
+            "requests": 1019845,
+            "responses": 1019810,
+            "impressions": 1019404,
+            "clicks": 1019019,
+            "revenue": 142.92917408184738
+        },
+        {
+            "date": "2021-05-03T00:00:00Z",
+            "app_id": "320248",
+            "app_name": "Age Calculator",
+            "requests": 1020019,
+            "responses": 1019974,
+            "impressions": 1019637,
+            "clicks": 1019145,
+            "revenue": 0.0012142323691284812
+        }
+    ]
+}
